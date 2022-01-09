@@ -18,4 +18,7 @@ It's important to give proper credit. Add links to any repo that inspired you or
 ### Internet links
 Make sure you leave behind any links to file paths you found particularly helpful in crafting your scripts
 
+### Thanks for your help!!!
+Just a quick thanks for contributing.
+
 Change requested
