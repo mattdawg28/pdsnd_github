@@ -3,22 +3,14 @@
 ### Date created
 Include the date you created this project and README file.
 
-### Project Title
-Replace the Project Title
+### Credits
+It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
 ### Description
 Describe what your project is about and what it does
 
+### Project Title
+Replace the Project Title
+
 ### Files used
 Include the files used
-
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
-### Internet links
-Make sure you leave behind any links to file paths you found particularly helpful in crafting your scripts
-
-### Thanks for your help!!!
-Just a quick thanks for contributing.
-
-Change requested
